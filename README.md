@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @GEdeMaria
+- 👀 I’m interested in ...
+-       ASM, C, C++, C#, SQL, JAVA, Webservices, Gamedev, Security
+- 🌱 I’m currently learning ...
+-       ASM, C, C++, Linux
+- 💞️ I’m looking to collaborate on ...
+-       Fun Things
+- 📫 How to reach me ...
+
+<!---
+GEdeMaria/GEdeMaria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
